@@ -1,0 +1,11 @@
+.test{
+    display: flex;
+    background-color:green;
+    gap: 1px;
+}
+.test>div{
+    height:100px;
+    width: 80px;
+    background-color: red;
+    border: 1px solid black;
+}
